@@ -47,6 +47,3 @@
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
-
-
-I am adding this code here because I can not for the life of me figure out why I am not able to commit my readme updates to GITHUB AAAA HELP.
