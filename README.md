@@ -17,9 +17,9 @@
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+* *What specific problem is the company or project trying to solve?* Currently, Nvidia is addressing the challenge of computational efficiency and high-performance processing for both AI enabling faster, more accurate data analysis and realistic, immersive gaming experiences with AI technology.
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+* *Who is the company's intended customer?* Nvidia's intended customers include AI researchers, data scientists, gamers, and enterprises in sectors like healthcare, finance, and autonomous driving.
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
@@ -55,3 +55,7 @@
 
 * [NVIDIA FAQs](https://investor.nvidia.com/investor-resources/faqs/#:~:text=back%20to%20top-,When%20was%20NVIDIA%20incorporated%3F,in%20Delaware%20in%20April%201998)
 * [NVIDIA Timeline](https://www.nvidia.com/en-us/about-nvidia/corporate-timeline/)
+* [NVIDIA Blog- Investments](https://blogs.nvidia.com/blog/nvidia-investments/)
+* [NVIDIA About Us](https://www.nvidia.com/en-us/about-nvidia/#About%20Us)
+* [NVIDIA Blog - Challenges](https://blogs.nvidia.com/blog/nvidia-story/)
+* [NVIDIA Blackwell Architecture](https://www.nvidia.com/en-us/data-center/technologies/blackwell-architecture/)
