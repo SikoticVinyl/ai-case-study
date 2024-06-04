@@ -2,11 +2,11 @@
 
 ## Overview and Origin
 
-* Name of company
+* **Name of company:** Nvidia
 
-* When was the company incorporated?
+* **When was NVIDIA incorporated?** NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998.
 
-* Who are the founders of the company?
+* **Who are the founders of the company?** Jensen Huang, Chris Malachowsky and Curtis Priem.
 
 * How did the idea for the company (or project) come about?
 
@@ -47,3 +47,7 @@
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+
+Resources Used: 
+https://investor.nvidia.com/investor-resources/faqs/#:~:text=back%20to%20top-,When%20was%20NVIDIA%20incorporated%3F,in%20Delaware%20in%20April%201998.
