@@ -1,4 +1,6 @@
-# TITLE
+# NVIDIA Case Study
+
+*A simple case study of NVIDIA*
 
 ## Overview and Origin
 
@@ -8,9 +10,10 @@
 
 * **Who are the founders of the company?** Jensen Huang, Chris Malachowsky and Curtis Priem.
 
-* How did the idea for the company (or project) come about?
+* **How did the idea for the company come about?**
+> The idea for Nvidia was born from a vision to address the computational demands of the gaming and professional markets, focusing on creating graphics processing units (GPUs) that could handle complex graphical computations more efficiently than existing solutions.
 
-* How is the company funded? How much funding have they received?
+* **How is the company funded? How much funding have they received?** Initially, Nvidia was funded via venture Capital however over the years they have recieved substantial funding through IPO and subsequent public market operations.
 
 ## Business Activities
 
@@ -48,6 +51,7 @@
 
 * Why are these technologies appropriate for your solution?
 
+# Resources
 
-Resources Used: 
-https://investor.nvidia.com/investor-resources/faqs/#:~:text=back%20to%20top-,When%20was%20NVIDIA%20incorporated%3F,in%20Delaware%20in%20April%201998.
+* [NVIDIA FAQs](https://investor.nvidia.com/investor-resources/faqs/#:~:text=back%20to%20top-,When%20was%20NVIDIA%20incorporated%3F,in%20Delaware%20in%20April%201998)
+* [NVIDIA Timeline](https://www.nvidia.com/en-us/about-nvidia/corporate-timeline/)
