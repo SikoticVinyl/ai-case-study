@@ -25,9 +25,9 @@
 
 Example Prompt: A cute cartoon fox looking mischievous
 
-    DallE3 - ![GPT Example](/Images/GPT%20Example.png)
+DallE3 - ![GPT Example](/Images/GPT%20Example.png)
     
-    MidJourne(Niji Model) - ![MidJ Example](/Images/MidJourneyExample.png)
+MidJourne(Niji Model) - ![MidJ Example](/Images/MidJourneyExample.png)
 
 * **Which technologies are MidJourney currently using, and how are they implementing them?** One of the biggest technologies they have been using from the start is Discord for user interface and holding their community in a discord. It brings the user closer to the development process and team directly. This large community base helps them train their models with the communities support and host events like daily prompt challenges to help guide that community support.
 
