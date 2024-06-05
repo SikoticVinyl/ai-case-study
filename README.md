@@ -1,25 +1,25 @@
-# NVIDIA Case Study
+# MidJourney Case Study
 
-*A simple case study of NVIDIA*
+*A simple case study of MidJourney*
 
 ## Overview and Origin
 
-* **Name of company:** Nvidia
+* **Name of company:** MidJourney
 
-* **When was NVIDIA incorporated?** NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998.
+* **When was MidJourney incorporated?** Midjourney was founded in 2021 in San Francisco, CA.
 
-* **Who are the founders of the company?** Jensen Huang, Chris Malachowsky and Curtis Priem.
+* **Who are the founders of the company?** The man himself, is David Holz
 
 * **How did the idea for the company come about?**
-> The idea for Nvidia was born from a vision to address the computational demands of the gaming and professional markets, focusing on creating graphics processing units (GPUs) that could handle complex graphical computations more efficiently than existing solutions.
+> David's vision for MidJourney stemmed from a lifelong fascination with exploring the creative potential of computers. Holz continues to shape MidJourney following his ethics and creativity and watching it all grow with collaboration between humans and AI.
 
-* **How is the company funded? How much funding have they received?** Initially, Nvidia was funded via venture Capital however over the years they have recieved substantial funding through IPO and subsequent public market operations.
+* **How is the company funded? How much funding have they received?** Having experience from being a co-founder for Leap Motion, David self funded the project from its roots and now they are seeing around $200 million in annual revenue - all without investor funding. A good portion of its revenu is continually reinvested back into the company.
 
 ## Business Activities
 
-* **What specific problem is the company or project trying to solve?** Currently, Nvidia is addressing the challenge of computational efficiency and high-performance processing for both AI enabling faster, more accurate data analysis and realistic, immersive gaming experiences with AI technology.
+* **What specific problem is the company or project trying to solve?** 
 
-* **Who is the company's intended customer?** Nvidia's intended customers include AI researchers, data scientists, gamers, and enterprises in sectors like healthcare, finance, and autonomous driving.
+* **Who is the company's intended customer?** 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
@@ -53,9 +53,5 @@
 
 ## Resources
 
-* [NVIDIA FAQs](https://investor.nvidia.com/investor-resources/faqs/#:~:text=back%20to%20top-,When%20was%20NVIDIA%20incorporated%3F,in%20Delaware%20in%20April%201998)
-* [NVIDIA Timeline](https://www.nvidia.com/en-us/about-nvidia/corporate-timeline/)
-* [NVIDIA Blog- Investments](https://blogs.nvidia.com/blog/nvidia-investments/)
-* [NVIDIA About Us](https://www.nvidia.com/en-us/about-nvidia/#About%20Us)
-* [NVIDIA Blog - Challenges](https://blogs.nvidia.com/blog/nvidia-story/)
-* [NVIDIA Blackwell Architecture](https://www.nvidia.com/en-us/data-center/technologies/blackwell-architecture/)
+* [Gate2AI blog](https://www.gate2ai.com/midjourney/who-owns-midjourney.html#:~:text=Midjourney%2C%20a%20pioneering%20software%20and,the%20limits%20of%20creative%20AI.)
+* [The.Reach.AI blog](https://thereach.ai/2023/09/06/midjourney-the-200-million-design-tool-that-never-raised-money/)
