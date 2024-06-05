@@ -17,21 +17,29 @@
 
 ## Business Activities
 
-* **What specific problem is the company or project trying to solve?** 
+* **MidJorurneys Goals** From listening in to David speak in their weekly office hours in discord, MidJourney seems to be a passion project to bring the ability to express creativity to anyone. You can see it in the way their model handles images and feelings, as the team has focused on more 'vibey' directions in training. Currently in their development process they are working on their web solution to access the ai outside of discord.
 
-* **Who is the company's intended customer?** 
+* **MidJourneys Client Base** This specific Ai focuses on text to image generation and is aimed for creativity and vibe. David wants the ability to express creativity in imagry to be more available to everyone and is against the idea of gate keeping being creative.
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* **MidJourneys Advantage** MidJourney is very different from other text to image models out there like DALL E 3, Gemini and others as it has put a big focus on "vibe" - capturing feelings and sensations within their images. It can be hard to explain but easy to show when you use the same prompt on each model and get vastly different responses. You need less to get more with MidJourney
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+Prompt: A cute cartoon fox looking mischievous
+
+DallE3 - ![GPT Example](/Images/GPT%20Example.png)
+MidJourne(Niji Model) - ![MidJ Example](/Images/MidJourneyExample.png)
+
+* **Which technologies are MidJourney currently using, and how are they implementing them?** One of the biggest technologies they have been using from the start is Discord for user interface and holding their community in a discord. It brings the user closer to the development process and team directly. This large community base helps them train their models with the communities support and host events like daily prompt challenges to help guide that community support.
 
 ## Landscape
 
-* What field is the company in?
+* **MidJourney's Feild** MidJourney is in the generative AI space, focusing specifically on text to image art space.
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-
-* What are the other major companies in this field?
+* **Trends and Innovations**
+    
+* **Major Competitors** 
+    - DALL-E 3
+    - DaVinci AI
+    - Stable Diffusion
 
 ## Results
 
@@ -53,5 +61,7 @@
 
 ## Resources
 
+* [Discord Office Hours]()
 * [Gate2AI blog](https://www.gate2ai.com/midjourney/who-owns-midjourney.html#:~:text=Midjourney%2C%20a%20pioneering%20software%20and,the%20limits%20of%20creative%20AI.)
 * [The.Reach.AI blog](https://thereach.ai/2023/09/06/midjourney-the-200-million-design-tool-that-never-raised-money/)
+* [Techopedia Article](https://www.techopedia.com/definition/midjourney)
