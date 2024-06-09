@@ -63,9 +63,15 @@ Since then, everyone has been improving and AI tech has been spreading futher ac
 
 * **MidJourneys Impact** MidJourney has made significant strides in the generative AI space, particularly with its focus on text-to-image generation. By August 2022, the MidJourney community had roughly one million members, showing substantial user engagement and growth. The revenue of around $200 million annually without investor funding indicates a strong financial performance and a sustainable business model driven by organic growth and community support.
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+* **Here are some of the ways they have been successful and measure success since release in 2022:**
+  - _User Engagement:_ Number of active users and community members participating in prompt challenges and events.
+  - _Revenue Growth:_ Annual revenue generated, which is currently around $200 million.
+  - _Quality of Generated Images:_ User feedback on the quality, creativity, and emotional impact of the images via rating systems.
+  - _Community Growth:_ Expansion of the community on Discord, as well as into their web and mobile apps.
 
-* How is your company performing relative to competitors in the same field?
+* **MidJourney vs Comptetitors**
+MidJourney distinguishes itself from competitors like DALL-E 3, Stable Diffusion, and Adobe Firefly by focusing on the 'vibe' and emotional resonance of the images it generates. This unique focus on creating evocative and atmospheric visuals has helped MidJourney carve out a niche in the generative AI space. Its strong community presence and the innovative use of Discord for user engagement further enhance its competitive position.
+
 
 ## Recommendations
 
@@ -88,3 +94,4 @@ Since then, everyone has been improving and AI tech has been spreading futher ac
 * [Artificial Imagination: The Rise of Generative AI](https://executive.berkeley.edu/thought-leadership/blog/artificial-imagination-rise-generative-ai)
 * [Dataversity: A Brief History of Generative AI](https://www.dataversity.net/a-brief-history-of-generative-ai/)
 * [Simple guide to History of Generative Ai](https://bernardmarr.com/a-simple-guide-to-the-history-of-generative-ai/)
+* [Forbes Top Gen AI for Art](https://www.forbes.com/sites/bernardmarr/2024/05/09/the-top-generative-ai-tools-for-art-and-design/)
