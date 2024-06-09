@@ -47,17 +47,19 @@
 
 * **MidJourney's Feild** MidJourney is in the generative AI space, focusing specifically on text to image art space.
 
-* **Trends and Innovations** Generative AI is not a totally new idea or technology, and has been around as early as the 1960's via chatbots, the first being ELIZA. AI research and tech hit a slow down around the 70's for various reasons and didn't begin to recover until the 90's. Through to the 2000's we made strides in facial recognition and other AI tech but starting in 
-    >"2014, the concept of the generative adversarial network (GAN) was presented." - [Dataversity: A Brief History of Generative AI](https://www.dataversity.net/a-brief-history-of-generative-ai/)
-It isn't until the 2020's however that we begin to see the start of the AI Revolution we seem to be in currently. Most sources attribute this ingition of AI with the public on the release of ChatGPT with Dall-E, MidJourney and other generative AI
+* **Trends and Innovations** 
+  Generative AI is not a novel concept; it has its roots dating back to the 1960s with early implementations like the chatbot ELIZA. During the 1970s, AI research experienced a slowdown due to various challenges, but it began to regain momentum in the 1990s. Significant advancements were made in facial recognition and other AI technologies throughout the 2000s. A pivotal moment came in 2014 with the introduction of the generative adversarial network (GAN), as highlighted by Dataversity: 
 
-Since then, everyone has been improving and AI tech has been spreading futher across industries. 
+    >"2014, the concept of the generative adversarial network (GAN) was presented." - [Dataversity: A Brief History of Generative AI](https://www.dataversity.net/a-brief-history-of-generative-ai/)
+
+  The true AI revolution, however, began in the 2020s. The public release of ChatGPT, along with generative AI models like DALL-E and MidJourney in 2022, marked a significant milestone. These developments ignited widespread interest and rapid advancements in AI technologies, which have since proliferated across various industries.
     
 * **Major Competitors** 
     - DALL-E 3
     - DaVinci AI
     - Stable Diffusion
     - Adobe Firefly
+    - Gemini
 
 ## Results
 
@@ -75,13 +77,19 @@ MidJourney distinguishes itself from competitors like DALL-E 3, Stable Diffusion
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+A few reccomendations for MidJourney as they grow and move forward.
 
-* Why do you think that offering this product or service would benefit the company?
+**Physical Merchandise**: Creating a platform for users to order prints, posters, and other merchandise featuring their generated images would provide an additional revenue stream and allow users to tangibly experience their creations. David Holz has mentioned this as a fun idea during office hours, indicating there is interest within the company.
 
-* What technologies would this additional product or service utilize?
+  *Benefits*: Offering physical merchandise would increase user satisfaction and engagement by allowing users to showcase their work in a tangible form. It would also generate additional revenue for MidJourney and promote the brand.
 
-* Why are these technologies appropriate for your solution?
+  *Technologies*: Integration with print-on-demand services through APIs to handle production and fulfillment.
+
+**Expand Mobile App to All Models**: While MidJourney currently has a mobile app for their Niji model via spellbrush, it would be beneficial to develop a comprehensive mobile app that supports all models. This would allow users to create and share images across all of MidJourney's offerings on the go, increasing accessibility and engagement without dependance on discord.
+
+  *Benefits*: Expanding the mobile app to support all models would increase user engagement and retention by providing a convenient and unified way to interact with the platform. It would attract a broader audience who prefer mobile solutions and ensure a consistent user experience across devices.
+
+  *Technologies*: React Native or Flutter for cross-platform development to ensure a consistent user experience across both iOS and Android devices.
 
 ## Resources
 
