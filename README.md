@@ -17,11 +17,13 @@
 
 ## Business Activities
 
-* **MidJorurney's Goals** From listening to David during the weekly office hours on [Discord](https://discord.gg/midjourney), it's clear that MidJourney is a passion project aimed at enabling everyone to express their creativity. As an independent research lab, MidJourney's commitment is evident in the way their model processes images and emotions, focusing on creating 'vibey' and evocative outputs. The team's dedication to this artistic vision is palpable. Currently, they are developing a web solution to make their AI accessible outside of Discord, further expanding its reach and impact.
+* **MidJorurney's Goals** From listening to David during the weekly office hours on [Discord](https://discord.gg/midjourney), it's clear that MidJourney is a passion project aimed at enabling everyone to express their creativity. As an independent research lab, MidJourney's commitment is evident in the way their model processes images and emotions, focusing on creating 'vibey' and evocative outputs. The team's dedication to this artistic vision is palpable.
 
-* **MidJourney's Client Base** This specific Ai focuses on text to image generation and is aimed for creativity and vibe. David wants the ability to express creativity in imagry to be more available to everyone and is against the idea of gate keeping being creative.
+Currently, they are developing a web solution to make their AI accessible outside of Discord, further expanding its reach and impact.
 
-* **MidJourney's Advantage** MidJourney is very different from other text to image models out there like DALL E 3, Gemini and others as it has put a big focus on "vibe" - capturing feelings and sensations within their images. It can be hard to explain but easy to show when you use the same prompt on each model and get vastly different responses. You need less to get more with MidJourney
+* **MidJourney's Client Base** This specific AI focuses on text to image generation and is aimed for creativity and vibe. David wants the ability to express creativity in imagry to be more available to everyone and is against the idea of gate keeping being creative.
+
+* **MidJourney's Advantage** MidJourney is very different from other text to image models out there like DALL-E 3, Gemini and others as it has put a big focus on "vibe" - capturing feelings and sensations within their images. It can be hard to explain but easy to show when you use the same prompt on each model and get vastly different responses. You need less to get more with MidJourney
 
 <div align="center">
   <h3>Example Prompt: A cute cartoon fox looking mischievous</h3>
